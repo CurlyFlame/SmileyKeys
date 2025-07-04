@@ -2,7 +2,8 @@
 Title: SmileyKeys
 Author: Iyas Jaber
 Description: Emoji Keys
-Created_At: 2025-07--04
+Date: 2025-07-04
+Total Time: 18 Hours
 ---
 
 # July 1st - The Schematic (2 Hours)
