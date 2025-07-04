@@ -40,5 +40,5 @@ Cut out the hole for the rotary encoder
 Lined up and readjusted any complications
 
 Completing the Hackpad
-![Screenshot 2025-07-03 210303](https://github.com/user-attachments/assets/56ee5cd5-52dd-448e-b956-7274ea35c6ad)
 
+![Screenshot 2025-07-03 210303](https://github.com/user-attachments/assets/56ee5cd5-52dd-448e-b956-7274ea35c6ad)
