@@ -1,3 +1,10 @@
+---
+Title: SmileyKeys
+Author: Iyas Jaber
+Description: Emoji Keys
+Created_At: 2025-07--04
+---
+
 # July 1st - The Schematic (2 Hours)
 Determined the type of hackpad I wanted to do, by brainstorming ideas to make keyboards more versatile 
 
