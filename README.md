@@ -1,5 +1,5 @@
 # SmileyKeys
-SmileyKeys is a project for Highway Hackpad, which is a custom macropad that pushes expressiveness by being designed to do things other keyboards cannot do which is type in emoji's. The hackpad features a set of 6 keys arranged in a smiley face pattern allowing the user to instantly react with with emoji's. The hackpad also includes a rotary encoder to control and change the volume making SmileyKeys not only expressive but also pracical, ideal for those expressive tech users. 
+SmileyKeys is a project for Highway Hackpad, which is a custom macropad that pushes expressiveness by being designed to do things other keyboards cannot do which is type in emoji's. The hackpad features a set of 6 keys arranged in a smiley face pattern allowing the user to instantly react with with emojis. The hackpad also includes a rotary encoder to control and change the volume making SmileyKeys not only expressive but also pracical, ideal for those expressive tech users. 
 # Schematic and PCB
 ![Screenshot 2025-07-03 195720](https://github.com/user-attachments/assets/8c8f4cef-79ca-453b-bd03-da1a99a413ad)
 ![Screenshot 2025-07-03 195702](https://github.com/user-attachments/assets/be94ac73-aa33-409f-9d6c-40cef53af9b4)
