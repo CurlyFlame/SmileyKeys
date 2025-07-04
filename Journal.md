@@ -1,5 +1,5 @@
 # July 1st - The Schematic (2 Hours)
-Determined the type of hackpad I wanted to do while brainstorming ideas to make keyboards more versatile 
+Determined the type of hackpad I wanted to do, by brainstorming ideas to make keyboards more versatile 
 
 Started to experiment with Kicad schematics by following the tutorial while adding adding my own features such as the rotary encoder and ensured to assign all footprints
 
